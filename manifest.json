@@ -2,5 +2,5 @@
   "name": "DiamondsBot",
   "description": "Помогает проверить ващи NFT коллекции",
   "url": "https://t.me/vergdiamonds_bot",
-  "bridgeUrl": "https://bridge.tonapi.io/bridge"
+  "bridgeUrl": ""
 }
